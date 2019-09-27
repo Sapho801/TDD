@@ -74,14 +74,14 @@ input {
   margin-top: 10px;
 }
 
-.input.boolean {
-  margin-left: 18px;
+input.boolean {
+  margin-left: 1px;
   margin-top: 5px;
 }
 
-.input.boolean label {
-  margin-top: 5px;
-  line-height: 44px;
+label.boolean {
+
+  margin-left: 8px;
 }
 
 .gram-actions a {
@@ -104,4 +104,8 @@ input {
   color: #125688;
   font-weight: bold;
   font-size: 18px;
+}
+
+.bold_class {
+  font-weight: bold;
 }
