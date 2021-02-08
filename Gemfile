@@ -83,7 +83,7 @@ gem 'figaro'
 
 gem 'fog-aws'
 
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 
 
 
